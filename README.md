@@ -1,5 +1,5 @@
 - 👋 Eu sou Junea Prado 
-- 👀E sou formada em Ciencias de Dados 
+- 👀E sou formada em tecnologo em Ciencias de Dados 
 - 🌱 Estou constantemente estudando programação
 - 💞️Eu amo programacao adoro tecnologia 
 - 
