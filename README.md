@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jun8ea
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Eu sou Junea Prado 
+- 👀E sou formada em Ciencias de Dados 
+- 🌱 Estou constantemente estudando programação
+- 💞️Eu amo programacao adoro tecnologia 
+- 
 
 <!---
 Jun8ea/Jun8ea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
